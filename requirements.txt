@@ -1,0 +1,6 @@
+numpy
+cupy-cuda12x        # cambia a cupy-cuda11x, cupy-cuda118, etc. según tu CUDA
+opencv-python-headless
+requests
+tqdm
+matplotlib
