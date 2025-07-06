@@ -1,6 +1,0 @@
-numpy
-cupy-cuda12x        
-opencv-python-headless
-requests
-tqdm
-matplotlib
